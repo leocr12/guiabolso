@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">GuiaBolso</string>
+    <string name="title_activity_joke">JokeActivity</string>
+    <string name="categories">Categories</string>
+    <string name="random_joke_button">Get Random Joke</string>
 </resources>
